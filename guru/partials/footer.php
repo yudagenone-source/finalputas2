@@ -7,6 +7,10 @@
                     <i data-lucide="home" class="w-6 h-6"></i>
                     <span class="text-xs font-medium mt-1">Dashboard</span>
                 </a>
+                <a href="siswa.php" class="bottom-nav-item flex flex-col items-center p-2 text-pink-dark/70 hover:text-pink-accent transition-colors">
+                    <i data-lucide="users" class="w-6 h-6"></i>
+                    <span class="text-xs font-medium mt-1">Siswa</span>
+                </a>
                 <a href="scan.php" class="bottom-nav-item flex flex-col items-center p-2 text-pink-dark/70 hover:text-pink-accent transition-colors">
                     <i data-lucide="qr-code" class="w-6 h-6"></i>
                     <span class="text-xs font-medium mt-1">Scan QR</span>
@@ -15,7 +19,6 @@
                     <i data-lucide="calendar" class="w-6 h-6"></i>
                     <span class="text-xs font-medium mt-1">Jadwal</span>
                 </a>
-             
             </div>
         </nav>
         
